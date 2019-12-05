@@ -29,9 +29,9 @@ function codeColorize(x, lang) {
   var cssdelimitercolor = "#d3d3d3";
 
   /* JavaScript Colors */
-  var jscolor = "#fafafa";
+  var jscolor = "#a3a3a3";
   var jskeywordcolor = "#00B3FF";
-  var jsstringcolor = "#EB2323";
+  var jsstringcolor = "#AF0716";
   var jsnumbercolor = "#DFC38A";  
 
   /* PHP Colors */
