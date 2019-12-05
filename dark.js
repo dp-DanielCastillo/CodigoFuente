@@ -31,7 +31,7 @@ function codeColorize(x, lang) {
   /* JavaScript Colors */
   var jscolor = "#a3a3a3";
   var jskeywordcolor = "#00B3FF";
-  var jsstringcolor = "#AF0716";
+  var jsstringcolor = "#DB9200";
   var jsnumbercolor = "#DFC38A";  
 
   /* PHP Colors */
